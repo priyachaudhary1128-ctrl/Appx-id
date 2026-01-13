@@ -15,10 +15,10 @@ BOT_TEXT = ":𝐈𝐓'𝐬𝐆𝐎𝐋𝐔.™®:"
 OWNER_ID = int(os.environ.get("OWNER_ID", "7421928577"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", ""))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003015178201"))
 
 # //FORCE_CHANNEL_ID
-CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "")) 
+CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1003015178201")) 
 # ------------------------------------------------
 MONGO_URL = os.environ.get("MONGO_URL", "")
 # -----------------------------------------------
